@@ -2,15 +2,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/OliverYuan-git?label=Follow&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/OliverYuan-git?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-## About Me
-
-I'm a passionate software developer with a love for learning and building projects that make an impact. I enjoy working with a variety of technologies and am always eager to explore new tools and frameworks.
-
-- 🌍 I'm based in [Your Location]
-- 🚀 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Your Learning Focus]
-- 💬 Ask me about anything related to [Your Expertise]
-- 📫 How to reach me: [Your Email Address]
+- 🌍 I'm based in Cleveland
+- 🚀 I’m currently study at CWRU
+- 🌱 I’m currently learning AI & MEDICAL
+- 💬 Ask me about anything related to ML & AI
+- 📫 How to reach me: yxy02oliver@outlook.com
 
 ## Technologies and Tools
 
@@ -28,20 +24,11 @@ Here are some of the technologies and tools I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverYuan-git&layout=compact&theme=radical)
 
-## Projects
-
-Here are some of the projects I've been working on:
-
-- [Project 1](https://github.com/OliverYuan-git/project1) - A brief description of Project 1.
-- [Project 2](https://github.com/OliverYuan-git/project2) - A brief description of Project 2.
-- [Project 3](https://github.com/OliverYuan-git/project3) - A brief description of Project 3.
 
 ## Connect with Me
 
 Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://your-website.com)
+- [personal email] yxy02oliver@outlook.com
 
 Thanks for visiting my profile! 😊
